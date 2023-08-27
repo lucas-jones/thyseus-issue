@@ -1,0 +1,9 @@
+.npmrc
+.turbo
+*.local.*
+*.tsbuildinfo
+build
+coverage
+dist
+node_modules
+vite.config.*.timestamp*
